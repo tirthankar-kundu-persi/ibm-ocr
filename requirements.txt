@@ -1,2 +1,4 @@
 Flask>=1.0.0
 cloudant==2.13.0
+tesserocr==2.5.1
+Pillow==8.0.1

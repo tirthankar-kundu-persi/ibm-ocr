@@ -1,0 +1,8 @@
+---
+truncatesources: true
+cleancache: true
+packages:
+- tesseract-ocr
+- libtesseract-dev
+- libleptonica-dev
+- pkg-config
